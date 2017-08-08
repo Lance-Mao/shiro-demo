@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shir-odemo-one:war">
+    <output-path>$PROJECT_DIR$/shir-odemo-one/target</output-path>
+    <root id="archive" name="shiro-demo-one.war">
+      <element id="artifact" artifact-name="shir-odemo-one:war exploded" />
+    </root>
+  </artifact>
+</component>
