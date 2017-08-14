@@ -9,6 +9,7 @@
         <module name="shir-odemo-one" />
         <module name="shiro-demo-04" />
         <module name="shiro-demo-05" />
+        <module name="shiro-demo-06" />
         <module name="shiro-demo-1" />
         <module name="shiro-demo-2" />
         <module name="shiro-demo-3" />
@@ -25,6 +26,7 @@
       <module name="shiro-demo-03" target="1.6" />
       <module name="shiro-demo-04" target="1.5" />
       <module name="shiro-demo-05" target="1.5" />
+      <module name="shiro-demo-06" target="1.5" />
       <module name="shiro-demo-1" target="1.6" />
       <module name="shiro-demo-2" target="1.5" />
       <module name="shiro-demo-3" target="1.6" />

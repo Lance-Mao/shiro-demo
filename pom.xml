@@ -11,6 +11,7 @@
     <module>shiro-demo-03</module>
     <module>shiro-demo-04</module>
     <module>shiro-demo-05</module>
+      <module>shiro-demo-06</module>
   </modules>
   <name>shiro-demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
